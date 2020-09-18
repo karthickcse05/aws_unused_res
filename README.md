@@ -60,6 +60,14 @@ Ref: (https://packaging.python.org/tutorials/packaging-projects/)
 
 # Contributing
 
+We follow the "fork-and-pull" Git workflow.
+
+* Fork the repo on GitHub
+* Clone the project to your own machine
+* Commit changes to your own branch
+* Push your work back up to your fork
+* Submit a Pull request so that we can review your changes and merge
+
 # Issues
 
 Kindly create issues [here](https://github.com/karthickcse05/aws_unused_res/issues)
