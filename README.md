@@ -71,3 +71,7 @@ We follow the "fork-and-pull" Git workflow.
 # Issues
 
 Kindly create issues [here](https://github.com/karthickcse05/aws_unused_res/issues)
+
+# For how to use in  aws env
+
+Check [here](https://github.com/karthickcse05/aws_unused_resources/blob/master/README.md)
